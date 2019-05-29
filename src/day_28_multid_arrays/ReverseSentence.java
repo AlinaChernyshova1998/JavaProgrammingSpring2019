@@ -1,6 +1,6 @@
 package day_28_multid_arrays;
 
-public class warmup {
+public class ReverseSentence {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

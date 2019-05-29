@@ -3,6 +3,7 @@ package day16_string_manipulation;
 public class CapitalCity {
 public static void main(String[] args) {
 	String str="Moscow is a capital Russia";
+	
 	str=str.replace("Moscow", "Baku");
 	System.out.println(str);
 	str=str.replace("Russia", "Azerbaijan");
